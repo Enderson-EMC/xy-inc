@@ -40,7 +40,7 @@ Rode o projeto. Run as >> Java Application.
 
 
 ## Testes
-* Pode se usar o sistema PostMan (https://www.getpostman.com/).
+* Pode-se usar o sistema PostMan (https://www.getpostman.com/).
 
 _Método: GET: xy-inc/poi/_
 
