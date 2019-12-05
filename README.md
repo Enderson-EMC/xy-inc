@@ -62,7 +62,7 @@ _Método: POST: xy-inc/poi/_
 
 Json: 
 
-{nome:"valor", coordenadaX:"x", coordenadaY:"y"}
+{"nome":"valor", "coordenadaX":"x", "coordenadaY":"y"}
 
 Sendo x e y, valores numerico sinteiros.
 
