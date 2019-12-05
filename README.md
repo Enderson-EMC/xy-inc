@@ -64,7 +64,7 @@ Json:
 
 {"nome":"valor", "coordenadaX":"x", "coordenadaY":"y"}
 
-Sendo x e y, valores numerico sinteiros.
+Sendo x e y, valores numericos inteiros.
 
 Cadastra um ponto de interesse.
 
