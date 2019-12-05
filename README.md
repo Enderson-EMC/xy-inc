@@ -69,3 +69,6 @@ Sendo x e y, valores numerico sinteiros.
 Cadastra um ponto de interesse.
 
 * O arquivo _PoiControllerTest_, pode ser executado para rodar os testes automáticos.
+Selecione o arquivo, e com o botão direito vá em Run as >> JUnit Test.
+
+
